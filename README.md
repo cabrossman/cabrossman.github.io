@@ -13,9 +13,9 @@ I am a life-long learner. You can find me in coffee shops learning new technique
 ### Data Scientist Manager
 **DE / Boatsgroup from April 2016 to June 2017**
 * Lead and developed inventory forecasting tools, dynamic pricing models & customer segmentation projects from fuzzy business question to reality.
-* Part project manager part data scientist
-* Data pipelines, regression modeling, APIs, Python, R, s3, Redshift, Tableau, Shiny
+* Part project manager, part data scientist
 * Strategic recommendations 
+* Data pipelines, regression modeling, APIs, Python, R, s3, Redshift, Tableau, Shiny
 
 ### Data Scientist
 **Ferguson Enterprises from November 2014 to April 2016**
