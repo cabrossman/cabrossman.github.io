@@ -12,23 +12,22 @@ I am a life-long learner. You can find me in coffee shops learning new technique
 
 ### Data Scientist Manager
 **DE / Boatsgroup from April 2016 to June 2017**
-* Lead and developed inventory forecasting tools, dynamic pricing models & customer segmentation projects from fuzzy business question to reality.
+* Lead the development of inventory forecasting tools, dynamic pricing models & customer segmentation projects from fuzzy business question into reality.
 * Part project manager, part data scientist
-* Strategic recommendations 
-* Data pipelines, regression modeling, APIs, Python, R, s3, Redshift, Tableau, Shiny
+* Strategic recommendations, Data pipelines, regression modeling, APIs, Python, R, s3, Redshift, Tableau, Shiny
 
 ### Data Scientist
 **Ferguson Enterprises from November 2014 to April 2016**
-* Created product recommendation system for each of the 200,000+ SKUs on the website using a market basket analysis program written in Java. 
-* Developed customer churn model using SVM, Random forest and logistic regression ensembles. Implemented through internal reporting to all sales team
-* Developed customer targeting strategy from insights of survival analysis. This project ranked customers based on CLTV calculation and various business rules. Consulted on the project and saw through implementation. This project helps drive business strategy for the sales team. 
-* Developed monthly and yearly forecasts for eBusiness using a dynamic lag time series model to aid business in capital and labor requirements.
-* Developed text analytics program wit a team of developers for market research. 
-* Various econometric research projects to determine causal and counterfactual effects of interest for business prioritization using LDVM, Fixed Effects, Survival Analysis and other panel models and time series models.
+* Developed product recommendation system
+* Developed customer churn model using SVM, Random forest and logistic regression ensembles.
+* Developed customer targeting strategy from insights of survival analysis. 
+* Developed monthly and yearly forecasts
+* Developed text analytics program
+* Various econometric research projects to determine causal and counterfactual effects of interest
 
 ### Market Research / Pricing Analyst
 **Ferguson Enterprises from April 2011 to October 2014**
-* Participate in the strategic planning process by analyzing competition, measuring business opportunity, and highlighting market dynamics and trends.
+* Analyzing competition, measuring business opportunity, and highlighting market dynamics and trends.
 * Perform price sensitivity analysis on products and customers to consult management on pricing strategy.
 * Customer segmentation to best price customers by first through third-degree discrimination.
 * Research economic conditions and prepare monthly market intelligence updates to management across the entire organization.
