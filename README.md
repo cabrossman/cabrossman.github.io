@@ -31,7 +31,7 @@ I am a life-long learner. You can find me in coffee shops learning new technics 
 * Customer segmentation to best price customers by first through third-degree discrimination.
 * Research economic conditions and prepare monthly market intelligence updates to management across the entire organization.
 
-##Technical Skills
+## Technical Skills
 * Machine Learning: have used classification, regression, clustering, recommendation engines to solve many business problems
 * Econometrics / Statistics: researched many causal impact projects to recommend action to business leaders
 * Tools: R, Python, SQL, Java, Spark. AWS suite of tools for data management. Tableau visualizations.
