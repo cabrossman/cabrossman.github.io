@@ -8,7 +8,9 @@ I am a life-long learner. You can find me in coffee shops learning new technique
 
 ### Director of Data and Analytics
 **Leesa Sleep from June 2017**
-* Financial modeling, data warehousing & leading data-driven decision making
+* Lead a team of top analytical talent
+* Data Science, data warehousing, data visualization, business planning, data evangelist
+* Vendor evaluation and project management
 
 ### Data Scientist Manager
 **DE / Boatsgroup from April 2016 to June 2017**
