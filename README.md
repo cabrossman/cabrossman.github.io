@@ -1,4 +1,5 @@
-![About Christopher Brossman](/pic.jpg){:style="float: right;margin-right: 7px;margin-top: 7px;"}
+<img align="right" src="/pic.jpg">
+
 ## About Christopher Brossman
 I am the glue between the business world and the analytical world. As a communicator and project manager, I lead high-value business projects from ideas to reality. As a data scientist, I rely on my experience with data warehousing, machine learning, and computer programming to develop novel solutions. 
 
