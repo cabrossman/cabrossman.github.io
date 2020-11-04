@@ -5,7 +5,7 @@ All things ML for business value
 
 ## Work Experiance
 ### Director of Data Science & Data Engineering
-**TheRealReal Nov 2018
+**The RealReal Nov 2018**
 
 ### Director of Data and Analytics
 **Leesa Sleep from June 2017 to Nov 2018**
