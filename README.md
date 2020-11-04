@@ -1,14 +1,14 @@
 <img align="right" src="/pic.jpg" vspace="50">
 
 ## About Christopher Brossman
-I am the glue between the business world and the analytical world. As a communicator and project manager, I lead high-value business projects from ideas to reality. As a data scientist, I rely on my experience with data warehousing, machine learning, and computer programming to develop novel solutions. 
-
-I am a life-long learner. You can find me in coffee shops learning new techniques to implement. I teach economics part-time and co-run the Norfolk Data Science group. When not infront of a computer I will be on a kayak or hiking in nature. 
+All things ML for business value
 
 ## Work Experiance
+### Director of Data Science & Data Engineering
+**TheRealReal Nov 2018
 
 ### Director of Data and Analytics
-**Leesa Sleep from June 2017**
+**Leesa Sleep from June 2017 to Nov 2018**
 * Lead a team of top analytical talent
 * Data Science, data warehousing, data visualization, business planning, data evangelist
 * Vendor evaluation and project management
